@@ -1,4 +1,4 @@
-# MetaDomains
+# Crypto domains Web3 client
 
 Decentralized Full-Stack web3 app where users can mint domains like ENS with .hello extention on polygon blockchain.
 
